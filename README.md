@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0162-find-peak-element](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->

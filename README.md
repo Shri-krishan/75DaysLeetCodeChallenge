@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
+| [1980-find-unique-binary-string](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 | [2906-construct-product-matrix](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [1980-find-unique-binary-string](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [1980-find-unique-binary-string](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->

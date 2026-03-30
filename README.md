@@ -18,15 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [1980-find-unique-binary-string](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [1980-find-unique-binary-string](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
 |  |

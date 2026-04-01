@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/1925-count-square-sum-triples) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/3546-equal-sum-grid-partition-i) |
 ## Backtracking
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/1925-count-square-sum-triples) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
 |  |

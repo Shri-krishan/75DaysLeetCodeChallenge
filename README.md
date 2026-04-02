@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0162-find-peak-element](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1980-find-unique-binary-string](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/1980-find-unique-binary-string) |
 | [2906-construct-product-matrix](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shri-krishan/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
